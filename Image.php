@@ -2,6 +2,7 @@
 /**
  * Resize and crop images
 */
+namespace saturn\image;
 class Image {
 
 	const IM_SIZE_EXACT = 1;

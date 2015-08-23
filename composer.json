@@ -16,7 +16,7 @@
     "homepage": "https://github.com/pkrll/Image",
     "autoload": {
         "psr-4" : {
-            "" : ""
+            "saturn\\image\\" : ""
         }
     }
 }
