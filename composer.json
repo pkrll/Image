@@ -1,0 +1,22 @@
+{
+    "name": "saturn/image",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": [
+        "image", "image manipulation", "resize", "crop"
+    ],
+    "description": "Resize and crop images.",
+    "authors": [
+        {
+            "name": "Ardalan Samimi",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/pkrll/Image",
+    "autoload": {
+        "psr-4" : {
+            "" : ""
+        }
+    }
+}
